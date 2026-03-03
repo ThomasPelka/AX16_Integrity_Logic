@@ -1,0 +1,32 @@
+Business Source License 1.1
+
+Parameters
+---------------------------------------------------------------------------
+Licensor:           Thomas Pelka
+Licensed Work:      AX16-Integrity-Logic / Core Kernel
+Additional Use:     Non-commercial use (research, education, private 
+                    projects) is permitted without a separate license.
+Change Date:        March 03, 2041
+Change License:     Apache License, Version 2.0
+---------------------------------------------------------------------------
+
+Terms
+1. The Licensor hereby grants you the right to copy, modify, create 
+   derivative works, and redistribute the Licensed Work solely for 
+   Non-commercial use.
+
+2. For any Commercial use, a separate paid license is required. 
+   Please contact: Thomas_Pelka@t-online.de
+
+3. "Commercial use" means any use of the Licensed Work by a third party 
+   of any form for a fee or other extremely direct or indirect commercial 
+   advantage or private monetary gain.
+
+4. On the Change Date, the Licensed Work shall be licensed under the 
+   Change License.
+
+5. All copies of the Licensed Work must include this license text and 
+   the copyright notice.
+
+Copyright (c) 2026 Thomas Pelka. All rights reserved.
+
